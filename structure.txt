@@ -1,0 +1,55 @@
+.
+├── .DS_Store
+├── .gitattributes
+├── README 2.md
+├── app
+│   ├── (tabs)
+│   │   ├── Moblie_movie_app.code-workspace
+│   │   ├── _layout.tsx
+│   │   ├── index.tsx
+│   │   ├── profile.tsx
+│   │   ├── saved.tsx
+│   │   └── search.tsx
+│   ├── .DS_Store
+│   ├── _layout.tsx
+│   ├── global.css
+│   └── movies
+│       └── [id].tsx
+├── app.json
+├── assets
+│   ├── .DS_Store
+│   ├── fonts
+│   │   └── SpaceMono-Regular.ttf
+│   ├── icons
+│   │   ├── arrow.png
+│   │   ├── home.png
+│   │   ├── logo.png
+│   │   ├── person.png
+│   │   ├── play.png
+│   │   ├── save.png
+│   │   ├── search.png
+│   │   └── star.png
+│   └── images
+│       ├── bg.png
+│       ├── highlight.png
+│       ├── logo.png
+│       └── rankingGradient.png
+├── babel.config.js
+├── constants
+│   ├── icons.ts
+│   └── images.ts
+├── eslint.config.js
+├── expo-env.d.ts
+├── interfaces
+│   └── interfaces.d.ts
+├── metro.config.js
+├── nativewind-env.d.ts
+├── package-lock.json
+├── package.json
+├── structure.txt
+├── tailwind.config.js
+├── tsconfig.json
+└── types
+    └── images.d.ts
+
+11 directories, 42 files
