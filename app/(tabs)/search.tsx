@@ -4,6 +4,7 @@ import React from "react";
 const search = () => {
   return (
     <View>
+      
         <Text>Search</Text>
     </View>
   );
