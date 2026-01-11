@@ -4,6 +4,7 @@ import React from "react";
 const Saved = () => {
   return (
     <View>
+      
         <Text>Saved</Text>
     </View>
   );

@@ -17,6 +17,7 @@ export default function Index() {
         showsVerticalScrollIndicator={false}
         contentContainerStyle={{ minHeight: "100%", paddingBottom: 10 }}
       >
+        
         <Image
           source={icons.logo}
           className="w-12 h-10 mt-20 mb-5 mx-auto"
